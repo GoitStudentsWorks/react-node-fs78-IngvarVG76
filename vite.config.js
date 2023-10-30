@@ -10,6 +10,6 @@ export default defineConfig({
       components: './src/components',
     },
   },
-  base: '/GooseTrack-with-backend-3.0/', 
+  base: '/react-node-fs78-IngvarVG76/', 
   publicDir: 'public',
 });
